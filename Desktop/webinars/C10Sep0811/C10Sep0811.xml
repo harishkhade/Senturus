@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome &amp; Introduction</name>
+		<time>0</time>		
+	</chapter>
+	<chapter>
+		<name>IBM Cognos 10 New Features Overview</name>
+		<time>189</time>		
+	</chapter>	
+	<chapter>
+		<name>No-charge New Features</name>
+		<time>258</time>		
+	</chapter>	
+	<chapter>
+		<name>Features requiring trade-up fees</name>
+		<time>351</time>		
+	</chapter>	
+	<chapter>
+		<name>Business Insight Demo</name>
+		<time>598</time>		
+	</chapter>	
+	<chapter>
+		<name>External Data Source Demo</name>
+		<time>2246</time>		
+	</chapter>	
+	<chapter>
+		<name>Active Reports Consumer Demo</name>
+		<time>3485</time>		
+	</chapter>		
+	<chapter>
+		<name>C10 New Features Detailed Review</name>
+		<time>3529</time>		
+	</chapter>	
+		<chapter>
+		<name>Fixed-price C10 Upgrade Offer</name>
+		<time>5252</time>		
+	</chapter>	
+	<chapter>
+		<name>Training for C10</name>
+		<time>5434</time>		
+	</chapter>		
+	<chapter>
+		<name>Building a Solid Data Foundation</name>
+		<time>5626</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>6098</time>		
+	</chapter>	
+	<video>sept0811.mp4</video>
+	<title>Cognos 10 Under the Hood</title>
+</video_player>

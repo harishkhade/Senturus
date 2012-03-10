@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Data Warehouse:Clarifying The Term</name>
+		<time>191</time>		
+	</chapter>	
+	<chapter>
+		<name>Bi Without Data Warehouse Downsides</name>
+		<time>444</time>		
+	</chapter>	
+	<chapter>
+		<name>WhereScape Demo</name>
+		<time>2170</time>		
+	</chapter>	
+	<chapter>
+		<name>Summary</name>
+		<time>4903</time>		
+	</chapter>
+	<chapter>
+		<name>Upcoming Events</name>
+		<time>4990</time>		
+	</chapter>		
+	<chapter>
+		<name>Next Steps</name>
+		<time>5079</time>		
+	</chapter>		
+	<video>DWnew2.mp4</video>
+	<title>Cognos 10 Business Insight</title>
+</video_player>

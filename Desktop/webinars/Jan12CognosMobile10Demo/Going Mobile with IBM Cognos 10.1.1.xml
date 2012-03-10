@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Going Mobile with IBM Cognos 10.1.1</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>89</time>		
+	</chapter>	
+	<chapter>
+		<name>Welcome &amp; Introduction</name>
+		<time>384</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos 10.1.1 New Features</name>
+		<time>652</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos 10:New Features &amp; Licensing</name>
+		<time>1047</time>		
+	</chapter>
+	<chapter>
+		<name>Why Mobile Matters</name>
+		<time>1733</time>		
+	</chapter>			
+	<chapter>
+		<name>Installation,Security &amp; Authoring</name>
+		<time>2284</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos 10.1.1 Mobile:Demo</name>
+		<time>3230</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>4058</time>		
+	</chapter>	
+	<chapter>
+		<name>Senturus' Cognos 10 Offerings</name>
+		<time>4766</time>		
+	</chapter>	
+	<video>Going Mobile with IBM Cognos 10.1.1.mp4</video>
+	<title>Going Mobile with Cognos 10</title>
+</video_player>

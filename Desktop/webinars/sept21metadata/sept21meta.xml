@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Metadata Modeling Goals</name>
+		<time>225</time>		
+	</chapter>	
+	<chapter>
+		<name>Metadata Modeling Best Practices</name>
+		<time>413</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo of Model Design Accelerator</name>
+		<time>796</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>1483</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>1787</time>		
+	</chapter>		
+	<video>sept21meta.mp4</video>
+	<title>IBM Cognos 10 Framework Manager Model Design Accelerator</title>
+</video_player>

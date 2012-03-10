@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo Materials</name>
+		<time>470</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction to Multi-Dimentional Data Sources </name>
+		<time>678</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1(Design a report against a cube that includes an inreport and dynamic content)</name>
+		<time>1244</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo2(Create a second report for our Dashboard)</name>
+		<time>2495</time>		
+	</chapter>
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>4410</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>4782</time>		
+	</chapter>		
+	<chapter>
+		<name>The End</name>
+		<time>5829</time>		
+	</chapter>	
+	<video>May5_multi_dimensional_dashboarding.mp4</video>
+	<title>Cognos Multi-dimensional dashboarding from may 5</title>
+</video_player>

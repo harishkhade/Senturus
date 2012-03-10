@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>70</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>183</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>285</time>		
+	</chapter>	
+	<chapter>
+		<name>Demonstration Materials</name>
+		<time>387</time>		
+	</chapter>
+	<chapter>
+		<name>Overview of Demo techniques</name>
+		<time>475</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo1 - Creating a briefing Book using a Table of Contents and Bookmarks </name>
+		<time>490</time>		
+	</chapter>	
+	<chapter>
+		<name>Questions after Demo1</name>
+		<time>1713</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo2 : Create a Conditional Drill-through</name>
+		<time>2033</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo3 : Freeze Column Headers</name>
+		<time>2641</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo4 : Prompt for a Date Range in a Dimensional Report</name>
+		<time>3029</time>		
+	</chapter>	
+	<chapter>
+		<name>Questions about Training</name>
+		<time>4132</time>		
+	</chapter>	
+	<chapter>
+		<name>Questions about Demos </name>
+		<time>5139</time>		
+	</chapter>	
+	<chapter>
+		<name>Wrapping Up </name>
+		<time>6197</time>		
+	</chapter>	
+	<chapter>
+		<name>Senturus Referral ID for IBM IOD</name>
+		<time>6263</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You</name>
+		<time>6313</time>		
+	</chapter>	
+	<video>Adv_Authoring_III.mp4</video>
+	<title>More Cognos Report Studio Advanced Authoring Techniques</title>
+</video_player>

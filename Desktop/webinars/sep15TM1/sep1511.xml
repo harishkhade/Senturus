@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Agenda &amp; Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>The Best Financial Performers</name>
+		<time>183</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM COGNOS TM1 Demonstration</name>
+		<time>343</time>		
+	</chapter>	
+	<chapter>
+		<name>12 Elements Of Financial Planning Best Practices</name>
+		<time>3289</time>		
+	</chapter>	
+	<chapter>
+		<name>Summary of Do' &amp; Dont'</name>
+		<time>4950</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>5218</time>		
+	</chapter>		
+	<video>sep1511.mp4</video>
+	<title>Cognos TM1 Demo and Financial Planning best Practices</title>
+</video_player>

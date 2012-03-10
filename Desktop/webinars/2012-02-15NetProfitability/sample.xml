@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction and Senturus Overview</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Net Profitability – Driven by Cost to Serve (CTS)</name>
+		<time>230</time>		
+	</chapter>	
+	<chapter>
+		<name>Acorn’s Transactional CTS Analysis and Solution Functionality</name>
+		<time>1128</time>		
+	</chapter>	
+	<chapter>
+		<name>Converting CTS Insight into value</name>
+		<time>1585</time>		
+	</chapter>	
+	<chapter>
+		<name>Delivering Insight to Users</name>
+		<time>2162</time>		
+	</chapter>
+	<chapter>
+		<name>Modeling Performance</name>
+		<time>2257</time>		
+	</chapter>			
+	<chapter>
+		<name>Client Success</name>
+		<time>2466</time>		
+	</chapter>	
+	<chapter>
+		<name>Acorn Overview</name>
+		<time>2573</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>2795</time>		
+	</chapter>
+	<video>2012-02-15NetProfitability.mp4</video>
+	<title>Net Profitability </title>
+</video_player>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>BI System Approches</name>
+		<time>291</time>		
+	</chapter>	
+	<chapter>
+		<name>Why Integrated Data Marts</name>
+		<time>495</time>		
+	</chapter>	
+	<chapter>
+		<name>Options for Pre-Built Apps</name>
+		<time>692</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos Applications</name>
+		<time>928</time>		
+	</chapter>
+	<chapter>
+		<name>Demo:HR Dashboard</name>
+		<time>2722</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A and Follow Up</name>
+		<time>3767</time>		
+	</chapter>		
+	<video>buildorbuy.mp4</video>
+	<title>Business Inteligence Applications-Build or Buy</title>
+</video_player>
