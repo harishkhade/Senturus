@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome &amp; Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>New Features in Cognos 10 Report Studio</name>
+		<time>671</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1(Create a Conditional Drill through)</name>
+		<time>1132</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo2(Freeze Column Headers)</name>
+		<time>1818</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo3(Prompt for a Date Range in a Dimentional Report and Drill-through to Details in an Ad-Hoc Studio)</name>
+		<time>2202</time>		
+	</chapter>
+	<chapter>
+		<name>Demo4(Create an Active Report with Data-driven controls)</name>
+		<time>3361</time>		
+	</chapter>		
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>4142</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>4807</time>		
+	</chapter>		
+	<video>Aug311.mp4</video>
+	<title>Cognos Advanced Report Authoring &amp; New Features in Report Studio</title>
+</video_player>
