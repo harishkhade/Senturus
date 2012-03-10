@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>15</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>51</time>		
+	</chapter>	
+	<chapter>
+		<name>Overview: Close, Consolidate, Report &amp; File</name>
+		<time>272</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos FSR: Demo</name>
+		<time>844</time>		
+	</chapter>
+	<chapter>
+		<name>Next Steps</name>
+		<time>3599</time>		
+	</chapter>			
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3824</time>		
+	</chapter>	
+	<video>2012-02-09FSR.mp4</video>
+	<title>Cognos FSR</title>
+</video_player>

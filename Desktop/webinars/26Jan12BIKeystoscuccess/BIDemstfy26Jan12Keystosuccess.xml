@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome and Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>21</time>		
+	</chapter>	
+	<chapter>
+		<name>Who is Senturus?</name>
+		<time>59</time>		
+	</chapter>	
+	<chapter>
+		<name>Define Success</name>
+		<time>115</time>		
+	</chapter>	
+	<chapter>
+		<name>Keys to Success in BI</name>
+		<time>1123</time>		
+	</chapter>
+	<chapter>
+		<name>What About technology:Not Key To Success?</name>
+		<time>4575</time>		
+	</chapter>		
+	<chapter>
+		<name>Technology "20,000 foot" Summary</name>
+		<time>4846</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>5328</time>		
+	</chapter>		
+	<video>BIDemstfy26Jan12Keystosuccess.mp4</video>
+	<title>Cognos 10 Business Insight</title>
+</video_player>

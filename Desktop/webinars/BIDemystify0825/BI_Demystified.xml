@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>42</time>		
+	</chapter>	
+	<chapter>
+		<name>1. Introductions</name>
+		<time>84</time>		
+	</chapter>	
+	<chapter>
+		<name>2. BI Business Case Studies</name>
+		<time>282</time>		
+	</chapter>	
+	<chapter>
+		<name>3. Introduction to BI Architectures &amp; Approches</name>
+		<time>906</time>		
+	</chapter>
+	<chapter>
+		<name>4. Demonstration:OLAP Cube Building</name>
+		<time>1900</time>		
+	</chapter>		
+	<chapter>
+		<name>5. Upcoming Events,Resources</name>
+		<time>2478</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>2599</time>		
+	</chapter>		
+	<chapter>
+		<name>Thank You</name>
+		<time>3600</time>		
+	</chapter>	
+	<video>BI_Demystified.mp4</video>
+	<title>The business value of BI</title>
+</video_player>

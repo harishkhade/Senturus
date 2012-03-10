@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome and Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Top 10 IBM Cognos 10 Features</name>
+		<time>715</time>		
+	</chapter>	
+	<chapter>
+		<name>Free vs Fee C10 New Features</name>
+		<time>1059</time>		
+	</chapter>	
+	<chapter>
+		<name>What is Business Insight</name>
+		<time>1617</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1:Create and customize a dashboard from existing report</name>
+		<time>2138</time>		
+	</chapter>
+	<chapter>
+		<name>Demo2:Perform adhoc analysis Using Business Insight Advanced</name>
+		<time>2891</time>		
+	</chapter>			
+	<chapter>
+		<name>Demo3:B.I. Advanced "edit" mode vs. "author" mode</name>
+		<time>3514</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo4:Author Advanced reports using Business Insight Advanced</name>
+		<time>3626</time>		
+	</chapter>	
+	<chapter>
+		<name>Assembly of content</name>
+		<time>4915</time>		
+	</chapter>	
+	<chapter>
+		<name>C10 Upgrade packages by Senturus</name>
+		<time>5082</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>5248</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>5418</time>		
+	</chapter>		
+	<video>Business Insight Advanced.mp4</video>
+	<title>Cognos 10 Business Insight</title>
+</video_player>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Current Situation</name>
+		<time>140</time>		
+	</chapter>	
+	<chapter>
+		<name>Solution Overview </name>
+		<time>420</time>		
+	</chapter>	
+	<chapter>
+		<name>Tom Cadden:ShutterFly Success</name>
+		<time>672</time>		
+	</chapter>	
+	<chapter>
+		<name>Senturus Solution Package</name>
+		<time>2478</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>2556</time>		
+	</chapter>		
+	<chapter>
+		<name>Thank You For Joining Us!</name>
+		<time>2793</time>		
+	</chapter>	
+	<video>Webinar_How_Shutterfly_Cut_5_Days_Off_Close.mp4</video>
+	<title>Webinar How Shutterfly Cut 5 Days Off Close</title>
+</video_player>

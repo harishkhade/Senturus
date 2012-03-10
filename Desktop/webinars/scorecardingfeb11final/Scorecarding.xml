@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>79</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>194</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>268</time>		
+	</chapter>	
+	<chapter>
+		<name>Scorecarding Definition &amp; Challenges:John Peterson</name>
+		<time>547</time>		
+	</chapter>
+	<chapter>
+		<name>BI Nirvana &amp; Challenges</name>
+		<time>620</time>		
+	</chapter>		
+	<chapter>
+		<name>The Balanced Scorecard</name>
+		<time>680</time>		
+	</chapter>		
+	<chapter>
+		<name>Linking Performance Measures</name>
+		<time>772</time>		
+	</chapter>		
+	<chapter>
+		<name>Managing Strategy</name>
+		<time>888</time>		
+	</chapter>	
+	<chapter>
+		<name>Why use scorecards</name>
+		<time>1042</time>		
+	</chapter>	
+	<chapter>
+		<name>Scorecard Challenges</name>
+		<time>1162</time>		
+	</chapter>	
+	<chapter>
+		<name>Reference BI Architecture</name>
+		<time>1384</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo:IBM Cognos Scorecarding</name>
+		<time>1438</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3115</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>4673</time>		
+	</chapter>	
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>4735</time>		
+	</chapter>
+	<chapter>
+		<name>What does Senturus Training Offer:</name>
+		<time>4810</time>		
+	</chapter>	
+	<chapter>
+		<name>Want More???</name>
+		<time>4988</time>		
+	</chapter>	
+	<chapter>
+		<name>Upcomimg Senturus Public Training Events</name>
+		<time>5075</time>		
+	</chapter>		
+	<chapter>
+		<name>Thank You for Joining Us!</name>
+		<time>5211</time>		
+	</chapter>		
+	<video>Scorecarding.mp4</video>
+	<title>Scorecarding with IBM Cognos Metric Studio</title>
+</video_player>

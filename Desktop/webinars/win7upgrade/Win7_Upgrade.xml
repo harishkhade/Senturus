@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>24</time>		
+	</chapter>	
+	<chapter>
+		<name>Introductions</name>
+		<time>94</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Planning 8.4.1 Upgrade</name>
+		<time>201</time>		
+	</chapter>		
+	<chapter>
+		<name>Next Steps</name>
+		<time>1293</time>		
+	</chapter>		
+	<chapter>
+		<name>Upcoming Events &amp; Resources</name>
+		<time>1321</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>1395</time>		
+	</chapter>
+	<chapter>
+		<name>Wrap-Up</name>
+		<time>1989</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You</name>
+		<time>2018</time>		
+	</chapter>	
+	<video>Win7_Upgrade.mp4</video>
+	<title>Windows 7 Requires Upgrade</title>
+</video_player>

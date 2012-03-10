@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Current Situation-"People Business"</name>
+		<time>54</time>		
+	</chapter>	
+	<chapter>
+		<name>Current Situation- Labor Data</name>
+		<time>94</time>		
+	</chapter>	
+	<chapter>
+		<name>Kevin Hogge,CFO,CRC Health Group, Inc.</name>
+		<time>710</time>		
+	</chapter>	
+	<chapter>
+		<name>John Peterson,Chairman,Senturus,inc.</name>
+		<time>1671</time>		
+	</chapter>
+	<chapter>
+		<name>Senturus</name>
+		<time>2120</time>		
+	</chapter>		
+	<chapter>
+		<name>Senturus Credentials</name>
+		<time>2154</time>		
+	</chapter>		
+	<chapter>
+		<name>Labor Management Solution</name>
+		<time>2210</time>		
+	</chapter>
+	<chapter>
+		<name>Next Steps</name>
+		<time>2330</time>		
+	</chapter>
+	<chapter>
+		<name>Demos available on demand</name>
+		<time>2392</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>2431</time>		
+	</chapter>		
+	<chapter>
+		<name>Thank you for Joining Us!</name>
+		<time>2643</time>		
+	</chapter>	
+	<video>Labor_Management_Webinar.mp4</video>
+	<title>Managing Labor data to Drive Profitability</title>
+</video_player>

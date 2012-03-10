@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Introductions</name>
+		<time>145</time>		
+	</chapter>	
+	<chapter>
+		<name>Marketing Trends &amp; Challenges</name>
+		<time>276</time>		
+	</chapter>	
+	<chapter>
+		<name>Where do you stand? Marketing Analytics Maturity Model</name>
+		<time>1441</time>		
+	</chapter>	
+	<chapter>
+		<name>Demonstration</name>
+		<time>1674</time>		
+	</chapter>
+	<chapter>
+		<name>Building Foundation for the future</name>
+		<time>1992</time>		
+	</chapter>		
+	<chapter>
+		<name>Summary</name>
+		<time>2170</time>		
+	</chapter>		
+	<chapter>
+		<name>Today's Offer</name>
+		<time>2425</time>		
+	</chapter>
+	<chapter>
+		<name>Next Steps</name>
+		<time>2505</time>		
+	</chapter>
+	<chapter>
+		<name>Upcoming Events &amp; Resources</name>
+		<time>2568</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>2621</time>		
+	</chapter>		
+	<chapter>
+		<name>Thank you!</name>
+		<time>3459</time>		
+	</chapter>	
+	<video>Marketing.mp4</video>
+	<title>Improving your marketing ROI</title>
+</video_player>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>5</time>		
+	</chapter>	
+	<chapter>
+		<name>Overview</name>
+		<time>208</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1:Ep Tips &amp; Techniques Topics</name>
+		<time>303</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo2:Convert Calendar Year Data to Fiscal</name>
+		<time>420</time>		
+	</chapter>
+	<chapter>
+		<name>Demo3:Snapshot Rolling Forecast Versions</name>
+		<time>1289</time>		
+	</chapter>
+	<chapter>
+		<name>Demo4:Seeding New Versions</name>
+		<time>1627</time>		
+	</chapter>
+	<chapter>
+		<name>Demo5:Reclass,Convert or Combine</name>
+		<time>2123</time>		
+	</chapter>	
+	<chapter>
+		<name>Summary</name>
+		<time>3310</time>		
+	</chapter>		
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3343</time>		
+	</chapter>		
+	<chapter>
+		<name>Next Steps</name>
+		<time>3575</time>		
+	</chapter>		
+	<video>rollovers.mp4</video>
+	<title>Cognos Enterprise Planning Tips for Year end roll over tasks</title>
+</video_player>
