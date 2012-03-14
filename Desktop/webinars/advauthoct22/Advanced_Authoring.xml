@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>17</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>67</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>90</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1 - Prompt Driven Dashboard Style Report</name>
+		<time>152</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo2 - Perform Market Basket Analysis Using Queries</name>
+		<time>970</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo3 - Merge Results Using a Set Operation</name>
+		<time>1594</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo4 - Enable Users to Select Report Display Type at Run Time</name>
+		<time>2055</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo5 - Define Relative-Time Periods Using Dimensional Data</name>
+		<time>2850</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3449</time>		
+	</chapter>
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>5588</time>		
+	</chapter>
+	<chapter>
+		<name>Want more???</name>
+		<time>5703</time>		
+	</chapter>
+	<chapter>
+		<name>Classes in other locations</name>
+		<time>5810</time>		
+	</chapter>
+	<chapter>
+		<name>What does Senturus Training Offer?</name>
+		<time>5846</time>		
+	</chapter>
+	<chapter>
+		<name>Thanks for Joining!</name>
+		<time>5952</time>		
+	</chapter>	
+	<video>Advanced_Authoring.mp4</video>
+	<title>Senturus Webinar - Advanced Authoring Techniques</title>
+</video_player>

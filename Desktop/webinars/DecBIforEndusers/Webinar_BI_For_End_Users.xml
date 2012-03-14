@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>8</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>218</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>256</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos Business Inelligence for Consumers</name>
+		<time>391</time>		
+	</chapter>
+	<chapter>
+		<name>Evolving from Managed Reporting to Interactive Dashboards</name>
+		<time>620</time>		
+	</chapter>		
+	<chapter>
+		<name>Evolving to the Next Level of Performance Management</name>
+		<time>714</time>		
+	</chapter>		
+	<chapter>
+		<name>Reference BI Architecture</name>
+		<time>1195</time>		
+	</chapter>		
+	<chapter>
+		<name>Cognos 8 Business Consumer Demonstrations</name>
+		<time>1400</time>		
+	</chapter>	
+	<chapter>
+		<name>Consumer Enhancements in Cognos 10</name>
+		<time>3095</time>		
+	</chapter>	
+	<chapter>
+		<name>Overview of Cognos Training Options</name>
+		<time>3520</time>		
+	</chapter>	
+	<chapter>
+		<name>Upcoming Events - Cognos Training Options</name>
+		<time>3668</time>		
+	</chapter>	
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>3779</time>		
+	</chapter>	
+	<chapter>
+		<name>What does Senturus Ttraining Offer</name>
+		<time>3825</time>		
+	</chapter>	
+	<chapter>
+		<name>Want more???</name>
+		<time>3913</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3972</time>		
+	</chapter>
+	<chapter>
+		<name>Wrap-Up</name>
+		<time>5590</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You!</name>
+		<time>5664</time>		
+	</chapter>	
+	<video>Webinar_BI_For_End_Users.mp4</video>
+	<title>Senturus Webinar - BI for End users</title>
+</video_player>

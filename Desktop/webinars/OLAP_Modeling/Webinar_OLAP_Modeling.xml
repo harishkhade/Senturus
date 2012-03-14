@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>147</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>294</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>329</time>		
+	</chapter>	
+	<chapter>
+		<name>The Value Of OLAP</name>
+		<time>503</time>		
+	</chapter>
+	<chapter>
+		<name>Reference BI Architecture</name>
+		<time>780</time>		
+	</chapter>		
+	<chapter>
+		<name>Best Practises for Cognos 8 Transformer</name>
+		<time>927</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo1 - Cognos 8 OLAP Modeling Best Practices and how to Synchronize transformer and the data source</name>
+		<time>1143</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo2 - Customize Transformer Model using Sub-Dimension and Relative Time Categories</name>
+		<time>1504</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo3 - Resolve conflicts when using multiple data sources</name>
+		<time>2245</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo4 - Set Measure Properties, Compare Rollup Options and Security</name>
+		<time>3280</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>4490</time>		
+	</chapter>	
+	<chapter>
+		<name>OLAP Enhancements in Cognos 10</name>
+		<time>4870</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>5123</time>		
+	</chapter>	
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>5317</time>		
+	</chapter>	
+	<chapter>
+		<name>What does Senturus training Offer</name>
+		<time>5366</time>		
+	</chapter>		
+	<chapter>
+		<name>Want More???</name>
+		<time>5494</time>		
+	</chapter>	
+	<chapter>
+		<name>Wrap-Up</name>
+		<time>5509</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You</name>
+		<time>5574</time>		
+	</chapter>		
+	<video>Webinar_OLAP_Modeling.mp4</video>
+	<title>Best Practices In OLAP Modeling with Cognos Transformer</title>
+</video_player>

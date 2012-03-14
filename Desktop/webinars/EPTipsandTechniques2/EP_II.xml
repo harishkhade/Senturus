@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>69</time>		
+	</chapter>	
+	<chapter>
+		<name>Introductions</name>
+		<time>97</time>		
+	</chapter>	
+	<chapter>
+		<name>Who is Senturus,Inc?</name>
+		<time>120</time>		
+	</chapter>
+	<chapter>
+		<name>Today's Format</name>
+		<time>260</time>		
+	</chapter>		
+	<chapter>
+		<name>Who is presenting today?</name>
+		<time>322</time>		
+	</chapter>		
+	<chapter>
+		<name>Today's Course Level &amp; Prerequisites</name>
+		<time>417</time>		
+	</chapter>		
+	<chapter>
+		<name>Cognos EP Tips &amp; Techniques Topics</name>
+		<time>456</time>		
+	</chapter>	
+	<chapter>
+		<name>1. Automate Access Table</name>
+		<time>571</time>		
+	</chapter>	
+	<chapter>
+		<name>2. Additional Summaries</name>
+		<time>1193</time>		
+	</chapter>
+	<chapter>
+		<name>3. E-List ID's</name>
+		<time>1736</time>		
+	</chapter>
+	<chapter>
+		<name>4. Allocations</name>
+		<time>2161</time>		
+	</chapter>
+	<chapter>
+		<name>EP T&amp;T Review</name>
+		<time>2849</time>		
+	</chapter>
+	<chapter>
+		<name>Q&amp;A and Follow-up</name>
+		<time>2888</time>		
+	</chapter>
+	<chapter>
+		<name>Wrapping Up</name>
+		<time>3391</time>		
+	</chapter>	
+	<chapter>
+		<name>www.senturus.com</name>
+		<time>3498</time>		
+	</chapter>
+	<chapter>
+		<name>Thank You!</name>
+		<time>3514</time>		
+	</chapter>	
+	<video>EP_II.mp4</video>
+	<title>Senturus Webinar - Cognos 8 EP Tips and Techniques II</title>
+</video_player>

@@ -1,0 +1,75 @@
+<html>
+<head>
+<script type="text/javascript" src="../jwplayer.js"></script>
+<script type="text/javascript">
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  xmlhttp.open("GET","IBM-Cognos10.1.1-Active-Reports.xml",false);
+  xmlhttp.send();
+  xmlDoc=xmlhttp.responseXML; 
+  }
+</script>
+<style>
+.toc { margin:0;padding:0;}
+.toc li { list-style-position: outside;margin-left:20px;color:#ffffff; }
+.toc li a { color:#fff; font-size:12px;padding:0px;text-decoration:none;font-family:Arial,Helvetica,sans-serif;display:block;}
+.toc li a:hover {}
+</style>
+<script type="text/javascript">
+document.write("<title>"+xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue+"</title>");
+</script>
+</head>
+<body style="background:#000;">
+<table style="border:1px solid #fff;border-radius:8px;" align="center">
+<tr>  
+   <td valign="top" width="40">
+       <table>
+	      <tr>
+		    <td valign="top"><img src="../../images/senturus-logo.gif"></td>
+		   </tr>
+	       <tr>
+		     <td>
+			  <ul class="toc">
+			  <script>
+			   var x=xmlDoc.getElementsByTagName("chapter");			                  			   
+			   for (i=0;i<x.length;i++)
+				{				
+				document.write("<li>");
+				document.write("<a href='#' onclick='jwplayer().seek("+ x[i].getElementsByTagName("time")[0].childNodes[0].nodeValue+");'>"+x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue+"</a>");  
+				document.write("</li>");
+                 }
+		</script>			
+	   </ul>   
+			 </td>
+		   </tr>
+	   
+	   </table>
+       
+   </td>
+   <td valign="top">
+    <!--<style>
+		div.VideoPlayer { height: 486px !important; }
+	</style>-->
+<div class="OverviewVideoWrapper">
+		<div class="VideoPlayer">
+			<div id="player1"></div>	  
+  		</div>
+	</div>
+	<script type="text/javascript">	    
+		jwplayer("player1").setup({
+			skin: "http://content.longtailvideo.com/skins/glow/glow.zip",
+			stretching: "fill",
+			flashplayer: "../player.swf",			
+			width: 1024,
+			height:768,
+			levels: [
+               {  file: xmlDoc.getElementsByTagName("video")[0].childNodes[0].nodeValue }
+                        ]
+		}); 
+	</script>
+	</td>
+</tr>
+</table>
+</body>
+</html>

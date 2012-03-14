@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome and Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Hightlights of IBM Cognos 10</name>
+		<time>706</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos 10: Under the Hood</name>
+		<time>874</time>		
+	</chapter>	
+	<chapter>
+		<name>IBM Cognos 10.1.1 Active Reports: Overview</name>
+		<time>1446</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo: New Features in Active Report 10.1.1, Create Deck and use Data Iterator</name>
+		<time>2437</time>		
+	</chapter>
+	<chapter>
+		<name>Demo: Active Report Output to Business Insight Workspace</name>
+		<time>4171</time>		
+	</chapter>			
+	<chapter>
+		<name>Senturus Cognos 10 Upgrade Package</name>
+		<time>4437</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos 10 Proof of Concept Engagements</name>
+		<time>4527</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>4661</time>		
+	</chapter>
+		<chapter>
+		<name>Q &amp; A</name>
+		<time>4987</time>		
+	</chapter>
+	<video>IBM-Cognos10.1.1-Active-Reports.mp4</video>
+	<title>IBM-Cognos10.1.1-Active-Reports</title>
+</video_player>

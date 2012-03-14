@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Context:Key Goals and Success Factors for BI</name>
+		<time>138</time>		
+	</chapter>	
+	<chapter>
+		<name>Comparison:Microsoft BI with Traditional BI Leaders</name>
+		<time>684</time>		
+	</chapter>	
+	<chapter>
+		<name>Perception Management:Microsoft BI Bundling and Pricing</name>
+		<time>785</time>		
+	</chapter>	
+	<chapter>
+		<name>Assessment:Microsoft BI Accross Key Fcactors</name>
+		<time>1320</time>		
+	</chapter>
+	<chapter>
+		<name>Customer Case Study:Jamba Juice Company - David Buckey</name>
+		<time>1488</time>		
+	</chapter>		
+	<chapter>
+		<name>Capabilities Evaluation: Microsoft BI Functionality Tour</name>
+		<time>1845</time>		
+	</chapter>		
+	<chapter>
+		<name>Conclusion: Summary and Next Steps</name>
+		<time>2737</time>		
+	</chapter>		
+	<chapter>
+		<name>Jamba Juice Questions</name>
+		<time>2807</time>		
+	</chapter>	
+	<chapter>
+		<name>BI Questions</name>
+		<time>3004</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You For Joining Us!</name>
+		<time>3431</time>		
+	</chapter>	
+	<video>Microsoft_BI.mp4</video>
+	<title>Microsoft BI - Too Good to Be True</title>
+</video_player>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>138</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>684</time>		
+	</chapter>	
+	<chapter>
+		<name>Introduction</name>
+		<time>785</time>		
+	</chapter>	
+	<chapter>
+		<name>Demonstration Materials</name>
+		<time>1320</time>		
+	</chapter>
+	<chapter>
+		<name>Sample Senturus Course Materials</name>
+		<time>1488</time>		
+	</chapter>		
+	<chapter>
+		<name>Multi-Dimensional Data Sources</name>
+		<time>1845</time>		
+	</chapter>		
+	<chapter>
+		<name>Cognos 8 Dimensional Dashboarding Techniques Demo</name>
+		<time>2737</time>		
+	</chapter>		
+	<chapter>
+		<name>Demo1(Design a report against a cube that includes an inreport Prompt and dynamic content)</name>
+		<time>2807</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1 Q &amp; A</name>
+		<time>3004</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo2 (Create a second report for our Dashboard)</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Demo3 (Create a third report for our Dashboard)</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Demo4 (Create a Portal Page to display our Reports)</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Cognos Training Options</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Next Class: Jan 22</name>
+		<time>3004</time>		
+	</chapter>
+	<chapter>
+		<name>Want more???</name>
+		<time>3004</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You For Joining Us!</name>
+		<time>3431</time>		
+	</chapter>	
+	<video>Dimensional Dashboarding Techniques.mp4</video>
+	<title>Dimensional Dashboarding Techniques</title>
+</video_player>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>79</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>194</time>		
+	</chapter>	
+	<chapter>
+		<name>Welcome and Introduction</name>
+		<time>268</time>		
+	</chapter>	
+	<chapter>
+		<name>Cognos 8 Seuciry Admin Demos</name>
+		<time>547</time>		
+	</chapter>
+	<chapter>
+		<name>Overview of Cognos Training Options</name>
+		<time>620</time>		
+	</chapter>		
+	<chapter>
+		<name>Upcoming live handson training session</name>
+		<time>680</time>		
+	</chapter>		
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>772</time>		
+	</chapter>		
+	<chapter>
+		<name>What does senturus training offer</name>
+		<time>888</time>		
+	</chapter>	
+	<chapter>
+		<name>Want more???</name>
+		<time>1042</time>		
+	</chapter>	
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>1162</time>		
+	</chapter>	
+	<chapter>
+		<name>Review &amp; Wrap-Up</name>
+		<time>1384</time>		
+	</chapter>	
+	<chapter>
+		<name>Other Questions Offline and Follow-Up</name>
+		<time>1438</time>		
+	</chapter>	
+	<chapter>
+		<name>Recording on Senturus.com</name>
+		<time>3115</time>		
+	</chapter>	
+	<chapter>
+		<name>Future Events with Motio functionality</name>
+		<time>4673</time>		
+	</chapter>	
+	<chapter>
+		<name>Suggest Future Topics</name>
+		<time>4735</time>		
+	</chapter>
+	<chapter>
+		<name>Thank You</name>
+		<time>4810</time>		
+	</chapter>	
+	<video>Cognos8_Security_Admin.mp4</video>
+	<title>Cognos 8 Security Best Practices</title>
+</video_player>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Agenda</name>
+		<time>25</time>		
+	</chapter>	
+	<chapter>
+		<name>Introductions</name>
+		<time>90</time>		
+	</chapter>	
+	<chapter>
+		<name>Who is Senturus,Inc?</name>
+		<time>116</time>		
+	</chapter>
+	<chapter>
+		<name>Today's Format</name>
+		<time>269</time>		
+	</chapter>		
+	<chapter>
+		<name>Cognos Ep Tips &amp; Techniques Topics</name>
+		<time>377</time>		
+	</chapter>		
+	<chapter>
+		<name>Part1: Attribute D-Cubes</name>
+		<time>585</time>		
+	</chapter>		
+	<chapter>
+		<name>Part2: Reclassifications</name>
+		<time>1266</time>		
+	</chapter>	
+	<chapter>
+		<name>Part3: E-List ID's</name>
+		<time>2341</time>		
+	</chapter>	
+	<chapter>
+		<name>Part4: Allocations</name>
+		<time>2736</time>		
+	</chapter>
+	<chapter>
+		<name>Cognos EP tips &amp; Techniques - Review</name>
+		<time>3412</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A and Follow-up</name>
+		<time>3426</time>		
+	</chapter>
+	<chapter>
+		<name>Next Course:April 26-28 Three-Day IBM Cognos EP Planning Training</name>
+		<time>4135</time>		
+	</chapter>
+	<chapter>
+		<name>Contact Us</name>
+		<time>4204</time>		
+	</chapter>
+	<chapter>
+		<name>Thank You!</name>
+		<time>4238</time>		
+	</chapter>	
+	<video>Webinar_Cognos_EP.mp4</video>
+	<title>IBM Cognos Ep Tips and Techniques</title>
+</video_player>

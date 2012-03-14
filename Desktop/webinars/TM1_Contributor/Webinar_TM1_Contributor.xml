@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Welcome!</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Agenda</name>
+		<time>68</time>		
+	</chapter>	
+	<chapter>
+		<name>Today's Format</name>
+		<time>113</time>		
+	</chapter>	
+	<chapter>
+		<name>About Senturus</name>
+		<time>147</time>		
+	</chapter>	
+	<chapter>
+		<name>TM1 Contributor Overview</name>
+		<time>223</time>		
+	</chapter>
+	<chapter>
+		<name>1. How to deploy a TM1 Contributor Application</name>
+		<time>994</time>		
+	</chapter>		
+	<chapter>
+		<name>2. Advantages of TM1 Contributor vs TM1 Web</name>
+		<time>1771</time>		
+	</chapter>		
+	<chapter>
+		<name>3. Creating Pic Lists</name>
+		<time>1907</time>		
+	</chapter>		
+	<chapter>
+		<name>4. Sandboxes</name>
+		<time>2230</time>		
+	</chapter>	
+	<chapter>
+		<name>Summary</name>
+		<time>2560</time>		
+	</chapter>	
+	<chapter>
+		<name>Question and Answer</name>
+		<time>2620</time>		
+	</chapter>	
+	<chapter>
+		<name>Overview of Cognos Training Options</name>
+		<time>3374</time>		
+	</chapter>	
+	<chapter>
+		<name>About Senturus Training</name>
+		<time>3463</time>		
+	</chapter>	
+	<chapter>
+		<name>What does Senturus Training Offer</name>
+		<time>3521</time>		
+	</chapter>	
+	<chapter>
+		<name>Review and Wrap-Up</name>
+		<time>3570</time>		
+	</chapter>	
+	<chapter>
+		<name>Thank You</name>
+		<time>3690</time>		
+	</chapter>		
+	<video>Webinar_TM1_Contributor.mp4</video>
+	<title>IBM Cognos TM1 Contributor</title>
+</video_player>

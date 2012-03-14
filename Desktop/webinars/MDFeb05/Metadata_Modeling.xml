@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<video_player>   
+	<chapter>
+		<name>Introduction</name>
+		<time>0</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo Materials</name>
+		<time>403</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo1 : Implement Dynamic row-level security based on user attributes</name>
+		<time>636</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo2 : Finally Understand Determinants</name>
+		<time>1853</time>		
+	</chapter>	
+	<chapter>
+		<name>Demo3 : Dimensionally Model Relational Data </name>
+		<time>2595</time>		
+	</chapter>
+	<chapter>
+		<name>Q &amp; A</name>
+		<time>3793</time>		
+	</chapter>		
+	<chapter>
+		<name>Training</name>
+		<time>4156</time>		
+	</chapter>		
+	<chapter>
+		<name>Next Classes and Webinars</name>
+		<time>4413</time>		
+	</chapter>		
+	<chapter>
+		<name>How to Register OnLine</name>
+		<time>4575</time>		
+	</chapter>	
+	<chapter>
+		<name>Follow-up</name>
+		<time>4758</time>		
+	</chapter>	
+	<chapter>
+		<name>The End</name>
+		<time>4891</time>		
+	</chapter>	
+	<video>Metadata_Modeling.mp4</video>
+	<title>Cognos Framework Manager Metadata Modeling</title>
+</video_player>
